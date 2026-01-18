@@ -1,2 +1,2 @@
 # Hello, there ! #
-I am <b>Tushar</b> 
+## Python Developer | Agentic AI | Artificial Intelligence | ##
