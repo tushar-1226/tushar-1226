@@ -4,6 +4,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,javascript,sql " />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html5 " />
   </a>
 </p>   
